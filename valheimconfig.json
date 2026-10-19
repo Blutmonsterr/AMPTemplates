@@ -9,7 +9,7 @@
         "InputType": "text",
         "Required": true,
         "ParamFieldName": "name",
-        "DefaultValue": "My Valheim Server - Powered by AMP"
+        "DefaultValue": "Valheim Server - Powered by Daddeln-at"
     },
     {
         "DisplayName": "World Name",
@@ -21,7 +21,7 @@
         "InputType": "text",
         "Required": true,
         "ParamFieldName": "world",
-        "DefaultValue": "PoweredByAMP"
+        "DefaultValue": "PoweredByDaddeln-at"
     },
     {
         "DisplayName": "Server Password",
